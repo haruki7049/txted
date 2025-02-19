@@ -44,6 +44,7 @@
 
               # Godot4
               pkgs.godot_4
+              pkgs.gdtoolkit_4
             ];
 
             shellHook = ''
